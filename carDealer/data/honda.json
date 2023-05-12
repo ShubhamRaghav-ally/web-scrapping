@@ -1,0 +1,120 @@
+{
+    "data": [
+        {
+            "St_ID_pk": 44,
+            "St_Name": "Andaman and Nicobar"
+        },
+        {
+            "St_ID_pk": 13,
+            "St_Name": "Andhra Pradesh"
+        },
+        {
+            "St_ID_pk": 47,
+            "St_Name": "Arunachal Pradesh"
+        },
+        {
+            "St_ID_pk": 24,
+            "St_Name": "Assam"
+        },
+        {
+            "St_ID_pk": 27,
+            "St_Name": "Bihar"
+        },
+        {
+            "St_ID_pk": 23,
+            "St_Name": "Chandigarh"
+        },
+        {
+            "St_ID_pk": 5,
+            "St_Name": "Chhattisgarh"
+        },
+        {
+            "St_ID_pk": 8,
+            "St_Name": "Delhi"
+        },
+        {
+            "St_ID_pk": 2,
+            "St_Name": "Goa"
+        },
+        {
+            "St_ID_pk": 3,
+            "St_Name": "Gujarat"
+        },
+        {
+            "St_ID_pk": 9,
+            "St_Name": "Haryana"
+        },
+        {
+            "St_ID_pk": 25,
+            "St_Name": "Himachal Pradesh"
+        },
+        {
+            "St_ID_pk": 11,
+            "St_Name": "Jammu & Kashmir"
+        },
+        {
+            "St_ID_pk": 20,
+            "St_Name": "Jharkhand"
+        },
+        {
+            "St_ID_pk": 15,
+            "St_Name": "Karnataka"
+        },
+        {
+            "St_ID_pk": 14,
+            "St_Name": "Kerala"
+        },
+        {
+            "St_ID_pk": 4,
+            "St_Name": "Madhya Pradesh"
+        },
+        {
+            "St_ID_pk": 1,
+            "St_Name": "Maharashtra"
+        },
+        {
+            "St_ID_pk": 43,
+            "St_Name": "Manipur"
+        },
+        {
+            "St_ID_pk": 41,
+            "St_Name": "Nagaland"
+        },
+        {
+            "St_ID_pk": 18,
+            "St_Name": "Odisha"
+        },
+        {
+            "St_ID_pk": 26,
+            "St_Name": "Puducherry"
+        },
+        {
+            "St_ID_pk": 10,
+            "St_Name": "Punjab"
+        },
+        {
+            "St_ID_pk": 16,
+            "St_Name": "Rajasthan"
+        },
+        {
+            "St_ID_pk": 12,
+            "St_Name": "Tamil Nadu"
+        },
+        {
+            "St_ID_pk": 42,
+            "St_Name": "Telangana"
+        },
+        {
+            "St_ID_pk": 21,
+            "St_Name": "Uttar Pradesh"
+        },
+        {
+            "St_ID_pk": 19,
+            "St_Name": "Uttarakhand"
+        },
+        {
+            "St_ID_pk": 17,
+            "St_Name": "West Bengal"
+        }
+    ]
+}

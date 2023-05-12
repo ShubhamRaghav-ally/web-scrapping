@@ -1,0 +1,1066 @@
+[
+      {
+        "val2": [
+          {
+            "value": "Anantpur",
+            "key": "S99"
+          },
+          {
+            "value": "Bhimavaram",
+            "key": "S61"
+          },
+          {
+            "value": "Guntur",
+            "key": "S57"
+          },
+          {
+            "value": "Kadappa",
+            "key": "SEL"
+          },
+          {
+            "value": "Kakinada",
+            "key": "S34"
+          },
+          {
+            "value": "Kurnool",
+            "key": "S56"
+          },
+          {
+            "value": "Nellore",
+            "key": "S54"
+          },
+          {
+            "value": "Rajahmundry",
+            "key": "S53"
+          },
+          {
+            "value": "Tirupati",
+            "key": "S63"
+          },
+          {
+            "value": "Vijayawada",
+            "key": "S51"
+          },
+          {
+            "value": "Vishakhapatnam",
+            "key": "P33"
+          }
+        ],
+        "val1": {
+          "value": "Andhra Pradesh",
+          "key": "AP"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Itanagar",
+            "key": "E45"
+          }
+        ],
+        "val1": {
+          "value": "Arunachal Pradesh",
+          "key": "AR"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Dibrugarh",
+            "key": "E41"
+          },
+          {
+            "value": "Guwahati",
+            "key": "E40"
+          },
+          {
+            "value": "Jorhat",
+            "key": "E49"
+          },
+          {
+            "value": "Nagaon",
+            "key": "E51"
+          },
+          {
+            "value": "Tezpur",
+            "key": "E56"
+          },
+          {
+            "value": "Tinsukia",
+            "key": "E52"
+          }
+        ],
+        "val1": {
+          "value": "Assam",
+          "key": "AS"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Muzaffarpur",
+            "key": "E66"
+          },
+          {
+            "value": "Patna",
+            "key": "E60"
+          },
+          {
+            "value": "Purnia",
+            "key": "EAH"
+          }
+        ],
+        "val1": {
+          "value": "Bihar",
+          "key": "BR"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Chandigarh",
+            "key": "N70"
+          }
+        ],
+        "val1": {
+          "value": "Chandigarh",
+          "key": "CH"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Bhilai",
+            "key": "W58"
+          },
+          {
+            "value": "Bilaspur",
+            "key": "W56"
+          },
+          {
+            "value": "Korba",
+            "key": "W62"
+          },
+          {
+            "value": "RAIGARH",
+            "key": "WCW"
+          },
+          {
+            "value": "Raipur",
+            "key": "W54"
+          }
+        ],
+        "val1": {
+          "value": "Chhattisgarh",
+          "key": "CG"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Delhi",
+            "key": "N10"
+          }
+        ],
+        "val1": {
+          "value": "Delhi",
+          "key": "DL"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Goa",
+            "key": "W60"
+          }
+        ],
+        "val1": {
+          "value": "Goa",
+          "key": "GA"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Ahmedabad",
+            "key": "W30"
+          },
+          {
+            "value": "Anand",
+            "key": "W36"
+          },
+          {
+            "value": "Bardoli",
+            "key": "W73"
+          },
+          {
+            "value": "Baroda",
+            "key": "W33"
+          },
+          {
+            "value": "Bharauch",
+            "key": "W49"
+          },
+          {
+            "value": "Bhavnagar",
+            "key": "W64"
+          },
+          {
+            "value": "Gandhidham",
+            "key": "W34"
+          },
+          {
+            "value": "Gandhinagar",
+            "key": "W44"
+          },
+          {
+            "value": "Godhra",
+            "key": "W68"
+          },
+          {
+            "value": "Himmatnagar",
+            "key": "W47"
+          },
+          {
+            "value": "Jamnagar",
+            "key": "W39"
+          },
+          {
+            "value": "Junagarh",
+            "key": "W40"
+          },
+          {
+            "value": "Kadi",
+            "key": "W77"
+          },
+          {
+            "value": "Mehsana",
+            "key": "H99"
+          },
+          {
+            "value": "Morbi",
+            "key": "WAL"
+          },
+          {
+            "value": "Navsari",
+            "key": "W65"
+          },
+          {
+            "value": "Palanpur",
+            "key": "W67"
+          },
+          {
+            "value": "Patan",
+            "key": "W23"
+          },
+          {
+            "value": "Rajkot",
+            "key": "W31"
+          },
+          {
+            "value": "Surat",
+            "key": "W32"
+          },
+          {
+            "value": "Vapi",
+            "key": "W37"
+          },
+          {
+            "value": "Vyara",
+            "key": "W99"
+          }
+        ],
+        "val1": {
+          "value": "Gujarat",
+          "key": "GJ"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Ambala",
+            "key": "N24"
+          },
+          {
+            "value": "Bahadurgarh",
+            "key": "NBE"
+          },
+          {
+            "value": "Bhiwani",
+            "key": "N74"
+          },
+          {
+            "value": "Faridabad",
+            "key": "N22"
+          },
+          {
+            "value": "Gurgaon",
+            "key": "N20"
+          },
+          {
+            "value": "Hissar",
+            "key": "N23"
+          },
+          {
+            "value": "Kaithal",
+            "key": "N15"
+          },
+          {
+            "value": "Karnal",
+            "key": "N21"
+          },
+          {
+            "value": "Panchkula",
+            "key": "N26"
+          },
+          {
+            "value": "Panipat",
+            "key": "N69"
+          },
+          {
+            "value": "Rewari",
+            "key": "N13"
+          },
+          {
+            "value": "Rohtak",
+            "key": "N12"
+          },
+          {
+            "value": "Sirsa",
+            "key": "N27"
+          },
+          {
+            "value": "Sonepat",
+            "key": "N14"
+          },
+          {
+            "value": "Yamunanagar",
+            "key": "N25"
+          }
+        ],
+        "val1": {
+          "value": "Haryana",
+          "key": "HR"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Kangra",
+            "key": "N82"
+          },
+          {
+            "value": "Mandi",
+            "key": "N80"
+          },
+          {
+            "value": "Solan",
+            "key": "N81"
+          }
+        ],
+        "val1": {
+          "value": "Himachal Pradesh",
+          "key": "HP"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Jammu",
+            "key": "N50"
+          }
+        ],
+        "val1": {
+          "value": "Jammu &amp; Kashmir",
+          "key": "JK"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "DEOGHAR",
+            "key": "EBB"
+          },
+          {
+            "value": "Dhanbad",
+            "key": "E62"
+          },
+          {
+            "value": "Jamshedpur",
+            "key": "E61"
+          },
+          {
+            "value": "Ranchi",
+            "key": "E63"
+          }
+        ],
+        "val1": {
+          "value": "Jharkhand",
+          "key": "JH"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Bangalore",
+            "key": "S80"
+          },
+          {
+            "value": "Belgaum",
+            "key": "S88"
+          },
+          {
+            "value": "Bellary",
+            "key": "S86"
+          },
+          {
+            "value": "Bijapur",
+            "key": "SBI"
+          },
+          {
+            "value": "DAVANAGERE",
+            "key": "SCR"
+          },
+          {
+            "value": "Gulbarga",
+            "key": "S85"
+          },
+          {
+            "value": "Hassan",
+            "key": "SBU"
+          },
+          {
+            "value": "Hospet",
+            "key": "S90"
+          },
+          {
+            "value": "Hubli",
+            "key": "S81"
+          },
+          {
+            "value": "KUSHAL NAGAR",
+            "key": "SEQ"
+          },
+          {
+            "value": "Kolar",
+            "key": "SCM"
+          },
+          {
+            "value": "Mandya",
+            "key": "SCQ"
+          },
+          {
+            "value": "Mangalore",
+            "key": "S82"
+          },
+          {
+            "value": "Mysore",
+            "key": "S83"
+          },
+          {
+            "value": "Shimoga",
+            "key": "S84"
+          },
+          {
+            "value": "Tumkur",
+            "key": "SCS"
+          },
+          {
+            "value": "Udipi",
+            "key": "S87"
+          }
+        ],
+        "val1": {
+          "value": "Karnataka",
+          "key": "KA"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Calicut",
+            "key": "S70"
+          },
+          {
+            "value": "Cochin",
+            "key": "S72"
+          },
+          {
+            "value": "Kannur",
+            "key": "S75"
+          },
+          {
+            "value": "Kayamkulam",
+            "key": "S29"
+          },
+          {
+            "value": "Kollam",
+            "key": "S91"
+          },
+          {
+            "value": "Kottayam",
+            "key": "S74"
+          },
+          {
+            "value": "Malappuram",
+            "key": "S79"
+          },
+          {
+            "value": "Nilamel",
+            "key": "SNM"
+          },
+          {
+            "value": "Palakkad",
+            "key": "S76"
+          },
+          {
+            "value": "THIRUVALLA",
+            "key": "SHV"
+          },
+          {
+            "value": "Thrissur",
+            "key": "S73"
+          },
+          {
+            "value": "Trivandrum",
+            "key": "S71"
+          }
+        ],
+        "val1": {
+          "value": "Kerala",
+          "key": "KL"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Bhopal",
+            "key": "W50"
+          },
+          {
+            "value": "Chhindwara",
+            "key": "W59"
+          },
+          {
+            "value": "Guna",
+            "key": "W66"
+          },
+          {
+            "value": "Gwalior",
+            "key": "W53"
+          },
+          {
+            "value": "Indore",
+            "key": "W51"
+          },
+          {
+            "value": "Jabalpur",
+            "key": "W52"
+          },
+          {
+            "value": "Ratlam",
+            "key": "W57"
+          },
+          {
+            "value": "Rewa",
+            "key": "WAC"
+          },
+          {
+            "value": "Sagar",
+            "key": "SGT"
+          },
+          {
+            "value": "Satna",
+            "key": "W55"
+          },
+          {
+            "value": "Shahdol",
+            "key": "WCY"
+          },
+          {
+            "value": "UJJAIN",
+            "key": "WDE"
+          },
+          {
+            "value": "Vidisha",
+            "key": "W81"
+          }
+        ],
+        "val1": {
+          "value": "Madhya Pradesh",
+          "key": "MP"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Ahmednagar",
+            "key": "W27"
+          },
+          {
+            "value": "Amravati",
+            "key": "W38"
+          },
+          {
+            "value": "Aurangabad",
+            "key": "W24"
+          },
+          {
+            "value": "Baramati",
+            "key": "W72"
+          },
+          {
+            "value": "Dhule",
+            "key": "W43"
+          },
+          {
+            "value": "Jalgaon",
+            "key": "W28"
+          },
+          {
+            "value": "Kolhapur",
+            "key": "W21"
+          },
+          {
+            "value": "Latur",
+            "key": "WBW"
+          },
+          {
+            "value": "Mumbai",
+            "key": "W10"
+          },
+          {
+            "value": "NAVI MUMBAI",
+            "key": "WBO"
+          },
+          {
+            "value": "Nagpur",
+            "key": "W20"
+          },
+          {
+            "value": "Nanded",
+            "key": "W41"
+          },
+          {
+            "value": "Nasik",
+            "key": "W25"
+          },
+          {
+            "value": "Panvel",
+            "key": "W70"
+          },
+          {
+            "value": "Pune",
+            "key": "W22"
+          },
+          {
+            "value": "Sangamner",
+            "key": "WBX"
+          },
+          {
+            "value": "Sangli",
+            "key": "W46"
+          },
+          {
+            "value": "Solapur",
+            "key": "W45"
+          },
+          {
+            "value": "Thane",
+            "key": "W26"
+          }
+        ],
+        "val1": {
+          "value": "Maharashtra",
+          "key": "MH"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Imphal",
+            "key": "E46"
+          }
+        ],
+        "val1": {
+          "value": "Manipur",
+          "key": "MN"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Aizwal",
+            "key": "E42"
+          }
+        ],
+        "val1": {
+          "value": "Mizoram",
+          "key": "MZ"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Angul",
+            "key": "EAM"
+          },
+          {
+            "value": "Balasore",
+            "key": "E78"
+          },
+          {
+            "value": "Bhubaneshwar",
+            "key": "E70"
+          },
+          {
+            "value": "Rourkela",
+            "key": "E73"
+          },
+          {
+            "value": "Sambalpur",
+            "key": "E71"
+          }
+        ],
+        "val1": {
+          "value": "Odisha",
+          "key": "OR"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Puducherry",
+            "key": "S20"
+          }
+        ],
+        "val1": {
+          "value": "Pondicherry",
+          "key": "PY"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Amritsar",
+            "key": "N63"
+          },
+          {
+            "value": "Bathinda",
+            "key": "N66"
+          },
+          {
+            "value": "Hoshiarpur",
+            "key": "N67"
+          },
+          {
+            "value": "Jalandhar",
+            "key": "N61"
+          },
+          {
+            "value": "Ludhiana",
+            "key": "N60"
+          },
+          {
+            "value": "Moga",
+            "key": "N71"
+          },
+          {
+            "value": "Mohali",
+            "key": "N72"
+          },
+          {
+            "value": "Pathankot",
+            "key": "N65"
+          },
+          {
+            "value": "Patiala",
+            "key": "N62"
+          },
+          {
+            "value": "Sangrur",
+            "key": "N76"
+          }
+        ],
+        "val1": {
+          "value": "Punjab",
+          "key": "PB"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Ajmer",
+            "key": "N46"
+          },
+          {
+            "value": "Alwar",
+            "key": "N45"
+          },
+          {
+            "value": "Bhilwara",
+            "key": "N49"
+          },
+          {
+            "value": "Bikaner",
+            "key": "N44"
+          },
+          {
+            "value": "Chittorgarh",
+            "key": "N57"
+          },
+          {
+            "value": "Jaipur",
+            "key": "N40"
+          },
+          {
+            "value": "Jodhpur",
+            "key": "N41"
+          },
+          {
+            "value": "Kota",
+            "key": "N43"
+          },
+          {
+            "value": "Pali",
+            "key": "NBX"
+          },
+          {
+            "value": "Sikar",
+            "key": "N78"
+          },
+          {
+            "value": "Udaipur",
+            "key": "N42"
+          }
+        ],
+        "val1": {
+          "value": "Rajasthan",
+          "key": "RJ"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Chennai",
+            "key": "S10"
+          },
+          {
+            "value": "Coimbatore",
+            "key": "S43"
+          },
+          {
+            "value": "Erode",
+            "key": "S44"
+          },
+          {
+            "value": "Karur",
+            "key": "S32"
+          },
+          {
+            "value": "Madurai",
+            "key": "S41"
+          },
+          {
+            "value": "Namakkal",
+            "key": "SDJ"
+          },
+          {
+            "value": "Pollachi",
+            "key": "S33"
+          },
+          {
+            "value": "Salem",
+            "key": "S40"
+          },
+          {
+            "value": "Thanjavur",
+            "key": "S48"
+          },
+          {
+            "value": "Tirunelveli",
+            "key": "S42"
+          },
+          {
+            "value": "Tirupur",
+            "key": "S39"
+          },
+          {
+            "value": "Trichy",
+            "key": "S45"
+          },
+          {
+            "value": "Vellore",
+            "key": "S46"
+          }
+        ],
+        "val1": {
+          "value": "Tamil Nadu",
+          "key": "TN"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Hyderabad",
+            "key": "S50"
+          },
+          {
+            "value": "KHAMMAM",
+            "key": "SEK"
+          },
+          {
+            "value": "Karimnagar",
+            "key": "S58"
+          },
+          {
+            "value": "Mehboobnagar",
+            "key": "SCA"
+          },
+          {
+            "value": "Nalgonda",
+            "key": "S60"
+          },
+          {
+            "value": "Warangal",
+            "key": "S55"
+          }
+        ],
+        "val1": {
+          "value": "Telangana",
+          "key": "TS"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Agra",
+            "key": "N33"
+          },
+          {
+            "value": "Aligarh",
+            "key": "N29"
+          },
+          {
+            "value": "Allahabad",
+            "key": "N36"
+          },
+          {
+            "value": "Bareilly",
+            "key": "N32"
+          },
+          {
+            "value": "Etawah",
+            "key": "N96"
+          },
+          {
+            "value": "Faizabad",
+            "key": "N92"
+          },
+          {
+            "value": "Ghaziabad",
+            "key": "N90"
+          },
+          {
+            "value": "Gorakhpur",
+            "key": "N39"
+          },
+          {
+            "value": "Jhansi",
+            "key": "N47"
+          },
+          {
+            "value": "Kanpur",
+            "key": "N31"
+          },
+          {
+            "value": "Lucknow",
+            "key": "N30"
+          },
+          {
+            "value": "MIRZAPUR",
+            "key": "NDJ"
+          },
+          {
+            "value": "Mathura",
+            "key": "N93"
+          },
+          {
+            "value": "Meerut",
+            "key": "N34"
+          },
+          {
+            "value": "Moradabad",
+            "key": "N28"
+          },
+          {
+            "value": "Muzaffarnagar",
+            "key": "N54"
+          },
+          {
+            "value": "Noida",
+            "key": "N35"
+          },
+          {
+            "value": "Varanasi",
+            "key": "N38"
+          }
+        ],
+        "val1": {
+          "value": "Uttar Pradesh",
+          "key": "UP"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Dehradun",
+            "key": "N37"
+          },
+          {
+            "value": "Haldwani",
+            "key": "N91"
+          },
+          {
+            "value": "Haridwar",
+            "key": "N85"
+          },
+          {
+            "value": "Rudrapur",
+            "key": "N94"
+          }
+        ],
+        "val1": {
+          "value": "Uttarakhand",
+          "key": "UK"
+        }
+      },
+      {
+        "val2": [
+          {
+            "value": "Asansol",
+            "key": "E12"
+          },
+          {
+            "value": "Cooch Behar",
+            "key": "E15"
+          },
+          {
+            "value": "Durgapur",
+            "key": "E16"
+          },
+          {
+            "value": "Kolkata",
+            "key": "E10"
+          },
+          {
+            "value": "Siliguri",
+            "key": "E11"
+          }
+        ],
+        "val1": {
+          "value": "West Bengal",
+          "key": "WB"
+        }
+      }
+    ]
